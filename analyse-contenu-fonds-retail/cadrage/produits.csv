@@ -1,0 +1,32 @@
+Régime,Type de produit,Dénomination locale,Pays,Niveau d'accès,Phase,Voie d'accès typique
+OPCVM,Actions,SICAV / FCP,UE,N1,Pilote,"Directe, plateforme"
+OPCVM,Obligations,SICAV / FCP,UE,N1,Pilote,"Directe, plateforme"
+OPCVM,Mixte / diversifié,SICAV / FCP,UE,N1,Pilote,"Directe, plateforme"
+OPCVM,Monétaire,SICAV / FCP,UE,N1,Pilote,"Directe, plateforme"
+OPCVM,ETF (passif et actif),UCITS ETF,UE,N1,Pilote,"Directe, plateforme"
+OPCVM,Indiciel non coté,SICAV / FCP,UE,N1,Pilote,"Directe, plateforme"
+OPCVM,À échéance / date cible,SICAV / FCP,UE,N1,Pilote,"Directe, plateforme"
+OPCVM,À formule / capital protégé,SICAV / FCP,UE,N1,Pilote,"Directe, plateforme"
+OPCVM,Fonds de fonds,SICAV / FCP,UE,N1,Pilote (sans chaîne),"Directe, plateforme"
+OPCVM,Nourricier / maître,SICAV / FCP,UE,N1,Pilote (sans chaîne),"Directe, plateforme"
+OPCVM,Alternatif liquide,SICAV / FCP,UE,N1,Pilote,"Directe, plateforme"
+FIA,ELTIF,ELTIF,UE,N1,Pilote,"Directe, plateforme"
+FIA,Immobilier grand public,SCPI,FR,N1,Pilote,"Directe, assurance"
+FIA,Immobilier grand public,OPCI grand public,FR,N1,Pilote,"Directe, assurance"
+FIA,Capital-investissement grand public,FCPR / FCPI / FIP,FR,N1,Pilote,Directe
+FIA,FIA à vocation générale,FIA ouvert à vocation générale,FR,N1,Pilote,Directe
+FIA,Épargne salariale,FCPE,FR,N1,Pilote,Voie salariale
+FIA,Immobilier ouvert,Offene Immobilienfonds,DE,N1,Pilote,"Directe, plateforme"
+FIA,Autres fonds ouverts au grand public,Publikums-AIF,DE,N1,Pilote,"Directe, plateforme"
+FIA,Fonds non-OPCVM ouvert au détail,Partie II (loi 2010),LU,N1,Pilote,"Directe, plateforme"
+FIA,FIA ouvert au grand public,RIAIF,IE,N1,Pilote,"Directe, plateforme"
+FIA,Types ouverts au détail,à identifier,"IT, ES",N1,Phase 2,à identifier
+FIA,Capital-risque européen,EuVECA,UE,N2,Phase 2,Directe sous conditions
+FIA,Entrepreneuriat social européen,EuSEF,UE,N2,Phase 2,Directe sous conditions
+FIA,Fonds pour investisseurs avertis,SIF / SICAR / RAIF,LU,N3,Phase 3,"Enveloppe, mandat, fonds de fonds"
+FIA,Fonds pour investisseurs qualifiés,QIAIF,IE,N3,Phase 3,"Enveloppe, mandat, fonds de fonds"
+FIA,Fonds spécialisés,Spezial-AIF,DE,N3,Phase 3,"Enveloppe, mandat, fonds de fonds"
+FIA,Fonds professionnels,FPS / FPCI,FR,N3,Phase 3,"Enveloppe, mandat, fonds de fonds"
+FIA,Alternatifs professionnels,divers,UE,N3,Phase 3,"Enveloppe, mandat, fonds de fonds"
+Hors OPCVM/FIA,Produits structurés,—,—,—,Hors périmètre,—
+Hors OPCVM/FIA,ETP / ETC,—,—,—,Hors périmètre,—

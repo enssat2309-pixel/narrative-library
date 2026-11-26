@@ -1,0 +1,47 @@
+﻿Type de document,Libellé rencontré,Produit (exemple),Pays / langue,Source
+KID,Basisinformationsblatt,"ETF OPCVM (LU, DE, IE)",DE / allemand,"Émetteurs (DWS Xtrackers, Deka) et plateformes (finanzfluss)"
+Factsheet,"Factsheet, Monatsbericht, mention « Marketing Material »","ETF OPCVM, fonds obligataire LU",DE / allemand et anglais,"Émetteur (DWS), plateforme (finanzen.net)"
+Prospectus,"Verkaufsprospekt, Fondsprospekt",OPCVM,DE / allemand et anglais,Plateforme (finanzen.net)
+Rapport annuel,"Jahresbericht, Rechenschaftsbericht",OPCVM,DE / allemand et anglais,Plateforme (finanzen.net)
+Rapport semestriel,Halbjahresbericht,OPCVM,DE / allemand et anglais,"Plateforme (finanzen.net), émetteur (DWS)"
+KID,Document d'informations clés (DIC),SCPI,FR / français,"Régulateur (AMF), sociétés de gestion"
+Document équivalent au prospectus,Note d'information (visée AMF),SCPI,FR / français,"Régulateur (AMF), sociétés de gestion"
+Statuts,Statuts,SCPI,FR / français,Sociétés de gestion
+Formulaire de souscription,Bulletin de souscription,SCPI,FR / français,Sociétés de gestion
+Bulletin périodique d'information,"Bulletin trimestriel / semestriel d'information, parfois « Communication publicitaire »",SCPI,FR / français,"Sociétés de gestion (La Française), agrégateurs"
+Rapport annuel,Rapport annuel,SCPI,FR / français,Sociétés de gestion
+Prospectus + supplément par compartiment,Prospectus ; Supplement,ELTIF (ICAV irlandais),EN / anglais,Émetteur (Alteralia)
+Prospectus avec suppléments ELTIF,Prospectus (Supplements 1 à 3),ELTIF (LU),EN / anglais,Émetteur (M&G)
+KID,"Documento de datos fundamentales (KID) ; DFI, ancien nom du KIID","OPCVM (LU, ES)",ES / espagnol,"Régulateur (CNMV), Allfunds, banques"
+Prospectus,"Folleto, avec règlement de gestion",OPCVM (ES),ES / espagnol,Allfunds
+Rapports périodiques,"Informe semestral, anual, trimestral",OPCVM (ES),ES / espagnol,"CNMV, banques"
+Fiche fonds,"Ficha del fondo, avec niveau de risque CNMV de 1 à 7",OPCVM (ES),ES / espagnol,CaixaBank
+Annexe durabilité,Anexo al folleto (art. 8 SFDR),OPCVM (ES),ES / espagnol,Allfunds
+Avis aux porteurs,Aviso de modificaciones relevantes y derecho de separación,OPCVM (ES),ES / espagnol,CNMV (infographie)
+KID,Documento contenente le informazioni chiave (KID),"OPCVM (LU, FR, DE), ELTIF italien",IT / italien,"Émetteurs (Goldman Sachs, ODDO BHF, Anima), Allfunds"
+Prospectus,Prospetto (informativo),OPCVM,IT / italien,"Banca Passadore, émetteurs"
+Rapports périodiques,"Relazione annuale, relazione semestrale",OPCVM,IT / italien,"Émetteurs, banques"
+KIID / KID,Key Investor Information Document (KIID) ; PRIIPs KID,OPCVM (IE et autres),UK / anglais,"Janus Henderson, Thornburg"
+Factsheet,"Factsheet, mention « Marketing communication »",OPCVM,UK / anglais,"Janus Henderson, Thornburg"
+Avis aux actionnaires,Shareholder Notice,OPCVM,UK / anglais,Janus Henderson
+Commentaire de gestion,Commentary,OPCVM (IE),UK / anglais et autres langues,Thornburg
+Divulgations durabilité,SFDR disclosures ; Article 10 Transparency Statement ; Responsible investment reports,OPCVM,UK / anglais,"Insight, Thornburg"
+Page des facilités pour investisseurs,Legal documents ; facilités exigées par la directive de distribution transfrontalière,SICAV (LU),EN / anglais,Storebrand
+Prospectus + contrat de fonds,Prospekt mit integriertem Fondsvertrag,Fonds de droit suisse,CH / allemand,SwissFundData (Raiffeisen)
+Factsheet,"Factsheet, mention « Marketingmaterial »",Fonds de droit suisse,CH / allemand,Baloise
+Bibliothèque plateforme,"Monatsbericht/Factsheet, Basisinformationsblatt, Fondsprospekt, Halbjahresbericht, Jahresbericht, souvent en (de) et (en)","OPCVM (LU, IE, FR)",DE / allemand et anglais,finanzen.net
+Rapport d'évaluation de la valeur,"Assessment of Value report (annuel, publié)","Fonds britanniques autorisés (OEIC, unit trusts)",UK / anglais,"Janus Henderson, T. Rowe Price, HSBC, Liontrust"
+Factsheet version grand public,"Monthly factsheet, « Marketing Communication, for retail investors information »",OPCVM (LU),EN / anglais,Amundi
+Brochure de fonds,"Brochure, « Marketing communication », souvent réservée aux professionnels",OPCVM,EN / anglais,JPMorgan
+Articles et études thématiques,"Insights, thematic papers, baromètres","ETF, OPCVM",EN / anglais,"WisdomTree, BNP Paribas AM"
+Document d'offre local + KFS,Hong Kong Offering Document : prospectus ou mémorandum explicatif + Product Key Facts Statement (KFS),OPCVM luxembourgeois,HK / anglais et chinois,"Amundi, Pictet, Fidelity ; plateformes bancaires"
+KFS,Product Key Facts Statement (nouveau modèle SFC applicable au 1er nov. 2026),OPCVM luxembourgeois,HK / anglais,"Régulateur (SFC), émetteurs"
+Enveloppe locale du prospectus global,Hong Kong Covering Document ; Hong Kong wrapper ; Information for Hong Kong investors ; Addendum,OPCVM luxembourgeois,HK / anglais,"Amundi, Mirae"
+Avis aux investisseurs,"Notice to Hong Kong investors (changements, suspension)",OPCVM,HK / anglais,"Régulateur (SFC), gestionnaires"
+Prospectus local,Singapore Prospectus (incorpore le prospectus luxembourgeois),OPCVM luxembourgeois,SG / anglais,"Manulife, HSBC, Eastspring"
+Fiche d'information clef locale,Product Highlights Sheet (PHS),OPCVM et ETF luxembourgeois,SG / anglais,"HSBC, Eastspring, DWS, Allianz, UBS"
+Rapports périodiques,"Annual report, Semi-annual report",OPCVM luxembourgeois,SG / anglais,UBS
+Factsheet,Factsheet de la classe de parts représentative,OPCVM luxembourgeois,SG / anglais,Eastspring
+Tableau des dividendes,Dividend Table,OPCVM,SG / anglais,Janus Henderson
+Commentaire de gestion,Commentary,OPCVM,SG / anglais,Janus Henderson
+Avis aux actionnaires,Shareholder Notice,OPCVM,SG / anglais,Janus Henderson

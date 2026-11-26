@@ -1,0 +1,13 @@
+Paramètre,Valeur,Statut
+Domiciliation des produits,"Union européenne (OPCVM et FIA) ; critère : ISIN commençant par un code pays de l'UE (hors GB et CH). Seul le domicile est contraint, le lieu de distribution est libre.",Validé
+Pays de distribution,"Lot 1 : France, Allemagne, Royaume-Uni, Suisse, Hong Kong, Singapour ; lot 2 : ajout de l'Italie et de l'Espagne ; Japon, Taïwan, Corée plus tard",Validé
+Langues,"Langue locale de distribution, à défaut anglais",Validé
+Périmètre du pilote,"OPCVM (tous sous-types), ELTIF, FIA de niveau N1 (SCPI, OPCI, FCPR-FCPI-FIP, FIA à vocation générale, FCPE ; Offene Immobilienfonds, Publikums-AIF ; Partie II LU ; RIAIF IE). FIA italiens et espagnols reportés à la phase 2.",Validé
+Hors périmètre,"Produits structurés, ETP/ETC, fonds non domiciliés dans l'UE",Validé
+Phases 2 et 3,"Phase 2 : EuVECA, EuSEF, voie par mandat. Phase 3 : FIA professionnels, enveloppe d'assurance, fonds de fonds. Mode de collecte à définir (plus de bot de collecte, D-018).",Validé sur le principe
+Fenêtre de dates,"24 mois (nov. 2024 à nov. 2026), dernière version pour les documents ; 36 mois pour les avis",Validé
+Rapports annuels et semestriels,"Périmètre restreint : commentaire, performance, frais effectifs ; états financiers et listes de positions exclus du tirage (D-012)",Validé
+Annexes SFDR,Exclues ; l'information durabilité du corps des documents est conservée,Validé
+Avis aux investisseurs,"Flux séparé (typologie des événements, 10 à 15 paires avis → document suivant), non tiré pour le pilote",Validé
+"Commentaire de gestion, tableau des dividendes",Seulement comme sections d'autres documents ; fichiers autonomes en annexes liées,Validé
+Corpus,"Lots 1 et 2 et annexe Singapour, acceptés tels quels avec leurs limites documentées (D-010)",Validé

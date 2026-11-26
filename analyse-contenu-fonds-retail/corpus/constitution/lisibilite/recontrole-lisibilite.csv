@@ -1,0 +1,41 @@
+segment_id,lot,strate,decision_premiere_passe,critere_premiere_passe,note_premiere_passe,decision_relecture,critere_relecture,note_relecture,decision_identique,critere_identique
+LOT2-IE00BZ163L38-ES-KID-fb775f4b-000014,lot2,S1,retenu,R1,,retenu,R1,,oui,oui
+LOT2-DE0007483612-DE-KID-4604f8f4-000016,lot2,S1,retenu,R1,,retenu,R1,,oui,oui
+LOT2-ES0165143001-ES-Factsheet-129b3735-000011,lot2,S2,écarté,E2,,écarté,E2,,oui,oui
+LOT2-DE0009770206-IT-Rapport-b5854258-000364,lot2,S4,retenu,R1,,retenu,R1,,oui,oui
+LOT1-FR0010241059-FR-Prospectus-1adc73ac-000086,lot1,S3,retenu,R1,,retenu,R1,,oui,oui
+LOT1-LU1159239190-DE-KID-0119d56d-000007,lot1,S1,écarté,E1,,retenu,R1,"Ligne d'une colonne voisine intercalée, mais pas sur les mêmes lignes ; phrase principale reconstituable, donc retenu.",non,non
+LOT2-IE00BZ163H91-ES-Prospectus-02d06502-000453,lot2,S3,retenu,R1,,retenu,R1,,oui,oui
+LOT2-ES0165143001-ES-KID-5796ad1e-000017,lot2,S1,retenu,R1,,retenu,R1,,oui,oui
+LOT1-LU0224105477-FR-Prospectus-9f8a5429-001276,lot1,S3,écarté,E1,,écarté,E1,,oui,oui
+LOT1-IE0032523478-DE-Rapport-semestriel-2f82086c-003878,lot1,S4,retenu,R1,,retenu,R1,,oui,oui
+LOT2-FR0013532363-FR-Rapport-41430957-000109,lot2,S4,retenu,R1,,retenu,R1,,oui,oui
+LOT2-IE00BZ163K21-CH-KID-67c7c3f1-000011,lot2,S1,retenu,R1,,retenu,R1,,oui,oui
+LOT2-FR0010730630-FR-Prospectus-4b03e02f-000077,lot2,S3,retenu,R1,,retenu,R1,,oui,oui
+LOT1-IE00BKWQ0M75-UK-Factsheet-0b2522d8-000009,lot1,S2,retenu,R2,"Deux tableaux juxtaposés (performances et positions) ; lignes libellé-valeur lisibles, retenu par prudence.",retenu,R1,"Texte rédigé juxtaposé à un tableau de pondérations par pays, pas deux colonnes rédigées : retenu par doute.",oui,non
+LOT1-FR0012686350-FR-Prospectus-775bab23-000087,lot1,S3,retenu,R1,,retenu,R1,,oui,oui
+LOT2-FR001400S0F2-FR-Factsheet-ca3efed4-000011,lot2,S2,écarté,E1,,écarté,E1,,oui,oui
+LOT2-DE000A0M98N2-DE-KID-853c96db-000018,lot2,S1,retenu,R1,,retenu,R1,,oui,oui
+LOT1-IE00B66F4759-FR-KID-471e2943-000007,lot1,S1,retenu,R1,,retenu,R1,,oui,oui
+LOT1-IE00B66F4759-DE-Factsheet-13cce8fa-000003,lot1,S2,retenu,R1,"Début de phrase coupé (suite du titre), fin complète, plus de cinq mots ; retenu par prudence.",retenu,R1,"Début de phrase coupé, mais fin complète et plus de cinq mots : pas un fragment E5.",oui,oui
+LOT1-IE00BKWQ0M75-UK-Rapport-semestriel-64ef8f3a-000060,lot1,S4,retenu,R1,,retenu,R1,,oui,oui
+LOT2-IE00BZ163H91-ES-Prospectus-02d06502-004511,lot2,S3,retenu,R1,"Élément numéroté d'une liste d'annexe, proche d'un intitulé ; élément de liste rédigé, retenu par prudence.",retenu,R1,"Élément de liste numérotée réduit à un groupe nominal ; compté comme élément de liste rédigé, pas en-tête.",oui,oui
+LOT2-FR0000934325-FR-Prospectus-fb186b32-000017,lot2,S3,retenu,R1,,retenu,R1,,oui,oui
+LOT2-FR0007016712-FR-Rapport-5470aba3-000379,lot2,S4,écarté,E4,,écarté,E4,,oui,oui
+LOT1-LU1159239190-DE-Prospectus-3c88f629-000772,lot1,S3,écarté,E1,,écarté,E1,,oui,oui
+LOT2-DE0009770206-IT-Prospectus-0878c7bf-000210,lot2,S3,retenu,R1,,retenu,R1,,oui,oui
+LOT1-LU0224105477-FR-Rapport-c403beec-000886,lot1,S4,écarté,E4,,écarté,E4,,oui,oui
+LOT2-IE00BZ163K21-CH-KID-67c7c3f1-000024,lot2,S1,retenu,R1,,retenu,R1,,oui,oui
+LOT2-FR0000934325-FR-Rapport-8b48b254-000004,lot2,S4,retenu,R1,,retenu,R1,,oui,oui
+LOT1-IE00BKWQ0M75-DE-KID-20cc4a89-000006,lot1,S1,écarté,E1,,écarté,E1,,oui,oui
+LOT2-IE00BZ163H91-DE-Rapport-969836b2-001406,lot2,S4,retenu,R2,,retenu,R2,,oui,oui
+LOT1-IE00BKWQ0M75-DE-KID-20cc4a89-000013,lot1,S1,retenu,R1,,retenu,R1,,oui,oui
+LOT1-LU0224105477-FR-Rapport-c403beec-002481,lot1,S4,écarté,E4,,écarté,E4,,oui,oui
+LOT1-IE0032523478-DE-Factsheet-a942093a-000018,lot1,S2,retenu,R1,,retenu,R1,,oui,oui
+LOT2-FR0011422427-FR-Prospectus-a4dd8fc9-000196,lot2,S3,retenu,R1,,retenu,R1,,oui,oui
+LOT2-FR0000934325-FR-KID-166ac1fe-000013,lot2,S1,retenu,R2,,retenu,R2,,oui,oui
+LOT2-DE0007483612-DE-Rapport-07efc82f-000007,lot2,S4,retenu,R1,,retenu,R1,,oui,oui
+LOT2-FR0010730630-FR-Factsheet-746f8c70-000024,lot2,S2,retenu,R2,,retenu,R2,,oui,oui
+LOT2-FR0000934325-FR-Rapport-8b48b254-000042,lot2,S4,retenu,R2,,retenu,R2,,oui,oui
+LOT2-FR001400S0F2-FR-Rapport-5270c3b7-000074,lot2,S4,retenu,R1,,retenu,R1,,oui,oui
+LOT2-DE000A0M98N2-DE-Prospectus-305d50ec-000465,lot2,S3,retenu,R1,"Élément de liste coupé par un intitulé de paragraphe intercalé ; un seul texte rédigé, retenu par prudence.",retenu,R1,"Titre « § 8 Anteilklassen » juxtaposé à un élément de liste rédigé ; une seule colonne rédigée, retenu.",oui,oui
