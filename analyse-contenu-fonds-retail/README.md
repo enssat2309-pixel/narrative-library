@@ -36,7 +36,7 @@ Détail : [`STATUT.md`](STATUT.md) · Jalons : [`FEUILLE_DE_ROUTE.md`](FEUILLE_D
 
 ## Fichiers lourds
 
-Les PDF, les archives des lots et le corpus segmenté complet sont dans Dropbox, dossier `Narratives Library/analyse-contenu-fonds-retail/`. Voir [`corpus/references.md`](corpus/references.md).
+Les PDF, les archives des lots et le corpus segmenté complet ne sont pas versionnés et ne sont pas nécessaires à la suite du projet. Ils restent chez l'arbitre ; leurs empreintes sont dans [`corpus/references.md`](corpus/references.md).
 
 ## Contribuer
 

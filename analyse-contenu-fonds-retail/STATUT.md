@@ -21,5 +21,4 @@ Mis à jour le **26 novembre 2026**.
 
 ## Points d'attention
 
-- Les fichiers lourds sont à déposer dans Dropbox (voir [`corpus/references.md`](corpus/references.md)).
 - Le protocole du tour 1 décrit encore des bots codeurs et un bot de collecte : il reste valable comme trace du tour 1, la suite est régie par D-016 à D-018.
