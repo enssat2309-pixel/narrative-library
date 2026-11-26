@@ -1,0 +1,64 @@
+id_codage,code_principal,codes_secondaires,code_alternatif,temporalite,fonction,durabilite,gouvernance,confiance,justification,remarque_codebook
+L1-001,J1,J5,J5,regle,avertir,non,non,moyenne,"Mise en garde standard « allocations susceptibles de changer » attachée au tableau, plus mention de source (secondaire).",Frontière J1/J5 : une ligne mêlant mise en garde et source ; R1 tranche sur une très faible différence de longueur.
+L1-002,J1,J5;A1,J5,regle,avertir,non,non,moyenne,Majorité du texte : avertissements standard sur performances passées et effet de change ; méthode NIW et source en secondaire ; lignes de classe.,Frontière J1/J5 floue quand formules standard et méthode de calcul se suivent dans le même paragraphe.
+L1-003,E2,,,observe,informer,non,non,haute,Tableau de performances cumulées et annualisées passées de la classe et de l'indice.,
+L1-004,E2,C1;D8,,observe,informer,non,non,moyenne,"Lignes de performances passées majoritaires ; caractéristiques du portefeuille et mesures de risque (écart-type, beta) en secondaires.","Aucun code explicite pour les ratios de valorisation du portefeuille (PER, cours/valeur comptable, rendement du dividende) : rangés en C1 par défaut."
+L1-005,D6,,E1,regle,avertir,non,non,moyenne,"Énonce l'absence de rendement minimal garanti et la perte possible du capital, malgré la ligne « Minimum » du tableau de scénarios.",R4 (sens du libellé « Minimum » du tableau de scénarios → E1) entre en tension avec le contenu (perte en capital → D6).
+L1-006,E3,E2,B4,observe,informer,non,non,moyenne,"Explique les causes de l'écart de suivi (retenue fiscale, Inde, change THB) ; chiffres de l'écart en secondaire.","Écart de suivi / tracking difference non prévu (E2, E3, B4 ou D8 ?). Marqueur durabilité : un nom d'indice contenant « ESG » suffit-il ? Codé non."
+L1-007,A1,,,sans_objet,informer,non,non,haute,Nom et forme juridique du produit (SICAV à compartiments).,
+L1-008,H1,,,regle,informer,oui,non,haute,Classification article 8 SFDR déclarée par le compartiment.,
+L1-009,J2,,,sans_objet,orienter,non,non,haute,Renvoi vers le glossaire pour plus d'informations.,
+L1-010,D5,,F1,regle,avertir,non,non,basse,Risque propre à la stratégie d'allocation dynamique : coûts de transaction accrus ; D5 (fonctionnement) est la définition la plus proche.,Cas non couvert : aucun code D pour un risque lié à la stratégie de gestion ou aux coûts qu'elle engendre.
+L1-011,I1,,,observe,informer,non,non,haute,"Revue du marché des changes sur la période écoulée, sans parler du produit.",
+L1-012,A2,,,sans_objet,informer,non,non,moyenne,Liste d'entités nommées par pays (délégués du dépositaire selon le contexte de l'annexe).,Rôle (sous-conservateur) connu seulement par le contexte ; A2 suppose « entités et leur rôle ».
+L1-013,A2,A1;J2,A1,sans_objet,informer,non,non,moyenne,"Majorité : agrément, autorité de contrôle et gestionnaire du fonds ; identification et ISIN, renvoi au site en secondaires.",Bloc « Produit » du KID typiquement mixte A1/A2/A3/J2 ; R1 dépend du décompte de texte.
+L1-014,J5,,F2,regle,informer,non,non,moyenne,"Hypothèses de calcul des tableaux de coûts (rendement 0 %, scénario intermédiaire, 10 000 EUR) : méthode de calcul.",Pas de règle J5/F2 pour les hypothèses de calcul des coûts du KID.
+L1-015,A5,A2,A2,regle,informer,non,non,moyenne,"Missions de contrôle du dépositaire (régularité des décisions, mesures conservatoires) majoritaires ; nom et adresse en secondaire.",
+L1-016,E1,J1;G5,J5,projete,informer,non,non,moyenne,"Explique les scénarios de performance (construction, tensions, périodes) ; formule sur le marché aléatoire et fiscalité en secondaires.",Texte explicatif des scénarios sans chiffres : E1 (scénarios) ou J5 (méthode) ? Aucune règle ne tranche.
+L1-017,J2,,A2,sans_objet,orienter,non,non,moyenne,"Renvoie vers un contact (équipe commerciale, adresse électronique) pour s'informer.","Contact général : J3 l'exclut vers A2, mais A2 vise des acteurs et leur rôle ; frontière J2/A2 absente."
+L1-018,B1,J2,B4,regle,informer,non,non,moyenne,Objectif de gestion : rendement total correspondant à l'indice ; fin de phrase avec adresse du site de l'indice.,"B1 inclut l'indice de référence visé, B4 le rôle de l'indice : pas de règle B1/B4."
+L1-019,B7,A1;A2,A1,regle,informer,non,non,moyenne,Durée de vie non fixe et clôture possible (B7) occupent le plus de texte ; type et forme juridique en secondaire.,
+L1-020,J4,,G1,regle,informer,non,non,moyenne,Interdiction réglementaire d'acquisition par des entités ERISA (restriction américaine).,Pas de règle de frontière J4/G1 : une catégorie réglementaire d'investisseur (ERISA) relève-t-elle de J4 ou G1 ?
+L1-021,B4,J2;B5,B3,regle,informer,non,non,moyenne,"Le paragraphe sur l'usage de l'indice (construction, risque, comparaison) est la plus longue proposition ; renvois et dérivés en secondaires.","Segment très long et multi-thèmes (B1, B2, B5, D2, G1, G3, E6...) : R1 sensible au mode de décompte, deux secondaires insuffisants."
+L1-022,A2,,A5,regle,informer,non,non,moyenne,"Désignation du gestionnaire et de l'agent administratif chargé de la tenue des livres, rôles d'acteurs nommés.",
+L1-023,J5,,F2,regle,informer,non,non,moyenne,"Hypothèse de calcul (10 000 EUR investis), sous le titre des hypothèses retenues.",Même difficulté J5/F2 que pour les hypothèses de calcul des coûts du KID.
+L1-024,A3,,Z2,sans_objet,informer,non,non,moyenne,Fragment de la liste des suppléments datés composant le prospectus : désigne le document.,
+L1-025,I1,,Z2,observe,informer,non,non,moyenne,Fragment de graphique sur les marchés actions : valeur d'un indice de marché sur la période.,Fragments de graphique : frontière entre information résiduelle et Z2 (mise en page) non précisée.
+L1-026,H2,A5;J2,A5,regle,informer,oui,non,moyenne,Politique de vote par procuration et d'engagement actionnarial ; revue annuelle par le conseil et lien en secondaires.,"Vote classé H2, mais la définition du marqueur durabilité ne cite pas le vote : marqueur mis à oui par cohérence."
+L1-027,A5,,,observe,informer,non,non,haute,Conformité constatée au code de gouvernance des fonds durant l'exercice.,
+L1-028,J2,,A2,sans_objet,orienter,non,non,moyenne,Renvoie vers la société de gestion pour obtenir des explications supplémentaires.,"Même difficulté que L1-017 : contact pour information, J2 ou A2."
+L1-029,B8,A2;G3,,regle,informer,oui,non,moyenne,"Lignes de valorisation (prix utilisés, point de valorisation) les plus longues ; gestionnaires et délais de transaction en secondaires.","Tableau de caractéristiques à six thèmes (A1, A2, H1, G3, G4, B4, B8) : R4/R1 fragile, deux secondaires insuffisants."
+L1-030,F2,,,regle,informer,non,non,haute,Coûts totaux et incidence annuelle des coûts : impact global des coûts.,
+L1-031,F2,J5;J1,F1,regle,informer,non,non,moyenne,Plus longue proposition : effet chiffré du droit d'entrée sur le montant investi ; méthode BVI et avertissement en secondaires.,
+L1-032,A3,,,sans_objet,informer,non,non,haute,Période couverte par le rapport annuel : désigne le document.,
+L1-033,J1,Z2,A3,regle,avertir,non,non,moyenne,"Formule standard « à titre d'information, pas une offre » ; mention de marques en secondaire.",Frontière J1/A3 : une mention sur la nature du document (pas une offre) peut aussi désigner le document.
+L1-034,A5,C2,,regle,informer,non,oui,moyenne,"Politique de rémunération du personnel et indépendance des fonctions de contrôle, majoritaire ; tableau des mouvements en secondaire.",Deux colonnes mêlées (rémunération et mouvements) dans un même segment.
+L1-035,J2,J1;A5,,sans_objet,orienter,non,non,haute,"Renvois vers documents, site et contacts ; clause sur les indices et politique de rémunération en secondaires.",
+L1-036,J2,J1;A5,,sans_objet,orienter,non,non,haute,"Renvois vers documents, site et contacts ; clause sur les indices et politique de rémunération en secondaires.",
+L1-037,F1,,,regle,informer,non,non,haute,Niveau des frais de dépositaire (fourchette en % de la VL).,
+L1-038,E3,E2,,observe,informer,non,non,moyenne,Attribue la surperformance à la retenue à la source ; chiffres de surperformance en secondaire (règle 17).,
+L1-039,F3,F2,F2,regle,informer,non,oui,moyenne,"Partage des coûts avec le vendeur et frais de distribution maximum, plus longs que l'incidence des coûts.",Règle 8 : marqueur gouvernance si « un conflit est décrit » ; facette : aussi « rémunération susceptible d'en créer un ». Définitions divergentes.
+L1-040,J3,,,sans_objet,orienter,non,non,haute,Procédure de réclamation et contacts pour se plaindre.,
+L1-041,F2,,,projete,informer,non,non,haute,Explique la réduction du rendement par les coûts avec rendement projeté avant et après coûts.,
+L1-042,A3,A1,A1,sans_objet,informer,non,non,moyenne,"Type et date du document (fiche, 31 octobre 2026) ; fragment de nom du produit en secondaire.",
+L1-043,C2,I1,,observe,informer,non,non,haute,"Positionnement et opérations du gérant sur la période (duration, maturités, crédit).",
+L1-044,J1,Z2,A3,regle,avertir,non,non,moyenne,"Formule standard « à titre d'information, pas une offre » ; mention de marques en secondaire.","Frontière J1/A3, comme L1-033."
+L1-045,F2,F3,J5,regle,informer,non,non,moyenne,Explication des coûts au fil du temps majoritaire ; coûts supplémentaires du vendeur en secondaire.,
+L1-046,A2,,,regle,informer,non,non,haute,Définition du rôle des distributeurs désignés par la société ou le gestionnaire.,
+L1-047,D4,,,regle,avertir,non,non,haute,"Définition du risque de liquidité, sans seuil ni durée.",
+L1-048,A2,G4;J2,,sans_objet,informer,non,non,moyenne,Entités émettrices du document et autorités de contrôle majoritaires ; marché secondaire et renvois en secondaires.,"Pavé juridique multi-thèmes (A2, A3, A1, J2, G4, J1) : deux secondaires insuffisants."
+L1-049,B5,,J5,regle,informer,non,non,basse,Échéance des garanties en espèces liées aux opérations de prêt de titres : rattaché aux techniques.,Cas non couvert : informations sur les garanties (collatéral) des opérations de financement sur titres.
+L1-050,F2,,J5,regle,informer,non,non,moyenne,Explique ce que montrent les tableaux de coûts au fil du temps.,
+L1-051,A5,,A2,regle,informer,non,non,basse,Conditions encadrant la délégation de la conservation par le dépositaire et information préalable des actionnaires.,"Cas non couvert : règles de délégation du dépositaire, entre A2 (rôle) et A5 (contrôle)."
+L1-052,G2,,,regle,informer,non,non,haute,Durée minimale de placement recommandée de 5 ans.,
+L1-053,B8,,,regle,informer,non,non,haute,Prix utilisés et point de valorisation : méthode de valorisation.,
+L1-054,D8,,J5,regle,informer,non,non,moyenne,"Définition du beta, mesure statistique de risque, dans le glossaire.",Définitions de glossaire : la mesure (D8) ou sa méthode (J5) ? Pas de règle.
+L1-055,F2,,,regle,informer,non,non,haute,Ligne « incidence des coûts annuels » (R4).,
+L1-056,B4,H2,H2,regle,informer,oui,non,moyenne,Description de l'indice répliqué et de sa pondération ; filtrage ESG en secondaire.,
+L1-057,J1,,Z1,regle,avertir,non,non,moyenne,Clause standard de non-responsabilité du fournisseur d'indices (pas d'approbation ni de garantie).,Clauses de licence et de non-responsabilité des fournisseurs d'indices : pas clairement couvertes par J1.
+L1-058,F1,,,regle,informer,non,non,haute,Ligne « coûts de sortie » : type et niveau du frais (R4).,
+L1-059,J2,J1,,sans_objet,orienter,non,non,haute,Renvoi vers le rapport du gestionnaire pour les performances ; avertissement standard en secondaire.,
+L1-060,B4,,B1,regle,informer,non,non,moyenne,"Indicateur de référence du fonds, cité comme référence.",Indicateur de référence seul : B1 (indice visé) ou B4 (référence de comparaison) ? Pas de règle B1/B4.
+L1-061,F1,,,regle,informer,non,non,moyenne,"Ligne de tableau des taux de frais par catégorie de parts, sous l'annexe des frais.",Libellés de colonnes absents du segment : sens connu seulement par le contexte (R3).
+L1-062,E3,E2,,observe,informer,non,non,moyenne,Attribue la surperformance à la retenue à la source ; chiffres de surperformance en secondaire (règle 17).,
+L1-063,D7,,,regle,informer,non,non,haute,"Conséquences d'une défaillance de la société de gestion : séparation des actifs, absence d'indemnisation.",

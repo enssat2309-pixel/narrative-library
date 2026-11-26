@@ -1,0 +1,24 @@
+numero,codes,regle
+1,G1 / I4,Profil de la personne → G1. Place du produit dans un portefeuille → I4.
+2,D4 / G4,"Risque énoncé sans seuil ni durée → D4. Conditions pratiques de sortie, ou segment avec seuil ou durée → G4."
+3,G2 / G4,Durée recommandée → G2. Conséquences d'une sortie anticipée → G4. Si les deux sont présents : code principal et code secondaire (pas de découpage dans ce pilote).
+4,D8 / E1,Mesure observée sur le passé → D8. Projection chiffrée → E1.
+5,D2 / D6 / E4,Dépendance au marché → D2. Perte de capital et protection → D6. Compromis rendement/risque général → E4.
+6,D3 / D7,Entité qui fabrique ou garantit le produit → D7. Entités sous-jacentes et contreparties → D3.
+7,D5 / G5,Risque de changement fiscal → D5. Description du traitement fiscal → G5.
+8,F1 / F2 / F3,Type et niveau du frais → F1. Impact global → F2. Rémunération du distributeur → F3 (marqueur gouvernance = oui si un conflit est décrit).
+9,B2 / B3,Ce que le fonds peut détenir → B2. Manière de sélectionner et de gérer → B3.
+10,B2 / B5 / B4,Actif détenu pour l'exposition → B2. Technique ou instrument → B5. Indice et réplication → B4.
+11,B7 / G2 / A4,Durée de vie au contrat → B7. Durée de détention conseillée → G2. Fait daté → A4.
+12,B6 / B7,"Formule de paiement, barrières, plafonds, coupons → B6. Échéance, prorogation, liquidation → B7."
+13,A1 / A3,Ce qui désigne le produit → A1. Ce qui désigne le document → A3.
+14,A1 / G3 / G1,Identifiants et attributs de classe → A1. Conditions d'accès → G3. Restriction selon le type d'investisseur → G1.
+15,A2 / A5,"Noms et rôles → A2. Mécanismes de contrôle, supervision, rémunération du personnel → A5."
+16,A5 / F3,Montant ou rémunération du distributeur → F3. Gestion des conflits d'intérêts → A5.
+17,E2 / E3 / E5,Chiffre de performance → E2. Cause → E3. Note ou classement par un tiers → E5.
+18,H1 / H2 / H3,"Classification, label, engagement futur → H1. Méthode → H2. Résultat mesuré → H3."
+19,I1 / I2 / I3,"Avis sur le marché passé → I1, à venir → I2. Phrase qui défend le produit → I3."
+20,J1 / J2 / J5,Formule standard → J1. Avertissement propre au produit → son code de risque. Renvoi → J2. Source ou méthode de calcul → J5.
+21,E6 / A1,"Le type de part (capitalisation ou distribution) cité comme identifiant de classe → A1. La règle de distribution (fréquence, source, calcul) → E6."
+22,E6 / G5,"Le fait de distribuer, la fréquence et le montant → E6. Le traitement fiscal des distributions → G5."
+23,E6 / E2,Un taux de distribution ou un montant versé → E6. Une performance totale passée → E2.
